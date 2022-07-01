@@ -1,0 +1,5 @@
+V3 3
+EN work/memoria2 0 FL C:/Users/Joan/Desktop/LeccionU2/Leccion02/Memoria01.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/memoria2/Behavioral 0 \
+      FL C:/Users/Joan/Desktop/LeccionU2/Leccion02/Memoria01.vhd EN work/memoria2 0

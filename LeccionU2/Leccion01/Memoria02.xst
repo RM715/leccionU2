@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Joan/Desktop/LeccionU2/Leccion01/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Joan/Desktop/LeccionU2/Leccion01/xst"
+elaborate
+-ifn Memoria02.prj
+-ifmt mixed

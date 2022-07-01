@@ -1,0 +1,41 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Joan/Desktop/LeccionU2/Leccion01/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Joan/Desktop/LeccionU2/Leccion01/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" in Library work.
+ERROR:HDLParsers:1015 - "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" Line 62. Wait for statement unsupported.
+ERROR:HDLParsers:800 - "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" Line 63. Type of direccion is incompatible with type of AA.
+ERROR:HDLParsers:1015 - "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" Line 65. Wait for statement unsupported.
+ERROR:HDLParsers:800 - "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" Line 66. Type of direccion is incompatible with type of BB.
+ERROR:HDLParsers:1015 - "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" Line 68. Wait for statement unsupported.
+ERROR:HDLParsers:800 - "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" Line 69. Type of direccion is incompatible with type of CC.
+ERROR:HDLParsers:1015 - "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" Line 71. Wait for statement unsupported.
+ERROR:HDLParsers:800 - "C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd" Line 72. Type of direccion is incompatible with type of DD.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.22 secs
+ 
+--> 
+
+Total memory usage is 208964 kilobytes
+
+Number of errors   :    8 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

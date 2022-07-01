@@ -1,0 +1,7 @@
+V3 4
+FL C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd 2022/07/01.12:12:35 P.20131013
+EN work/TBmemorydemo 0 FL C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/TBmemorydemo/behavior 0 \
+      FL C:/Users/Joan/Desktop/LeccionU2/Leccion01/Memoria02.vhd \
+      EN work/TBmemorydemo 0 CP memorydemo
